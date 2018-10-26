@@ -1,0 +1,26 @@
+#header1{
+	background:white;
+	color:blue;
+	font-size: 30px;
+	font-family: "Arial Black";
+	font-stretch: 40in;
+	font-style: bold;
+}
+
+#submit{
+	font-size: 30px;
+	font-family: "Arial Black";
+	background: silver;
+}
+
+#courseList{
+ 	font-style:italic;
+ 	color:navy-blue;
+}
+#signIn{
+	font-size:20px;
+	font-family: calibri;
+	background-color: grey; 
+	font-style:bold;
+ 	color:navy-blue;
+}
