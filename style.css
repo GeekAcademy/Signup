@@ -1,0 +1,47 @@
+#header1{
+	border: #3D9970;
+	color:blue;
+	font-size: 50px;
+	font-family: "Arial header";
+	font-stretch: 50in;
+	font-style: bold;
+}
+#header3{
+	background:grey;
+	color:blue;
+	font-size: 15px;
+	font-family: "Arial black";
+	font-stretch: 25in;
+	font-style: bold;
+}
+#submit{
+	font-size: 30px;
+	font-family: "Arial Black";
+	background: silver;
+}
+#courseList{
+ 	font-style:italic;
+ 	color:navy-blue;
+}
+#signIn{
+	font-size:20px;
+	font-family: calibri;
+	background-color: grey; 
+	font-style:bold;
+ 	color:navy-blue;
+}
+#attendance{
+	background:white;
+	color: #336633;
+	font-size: 40px;
+	font-family: "Arial header";
+	font-stretch: 40%;
+	font-style: bold;
+	font background:  #669999;
+}
+#form1{
+	font-family: "times new roman";
+	font color:white;
+	font background:#336633; 
+	font outline-style: bold;
+}
